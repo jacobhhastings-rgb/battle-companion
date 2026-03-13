@@ -1,2 +1,2 @@
 # battle-companion
-I am giving the swarm permission to edit my book. The implementation of my game is the thesis…  let it be persoanlly (human) stored by me is my only request 
+I am not giving the swarm permission to touch anything. The only reason this exsists ...  let it be persoanlly (human) stored by me is my only request 
